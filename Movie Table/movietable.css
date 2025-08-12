@@ -1,0 +1,26 @@
+table,th,td{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    border-collapse: collapse;
+    margin-left: 540px;
+    backdrop-filter: blur;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.cast{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body,table{
+    background-image: url('https://www.pngmagic.com/product_images/banner-background-sm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
